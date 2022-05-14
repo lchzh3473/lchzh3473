@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+[![lchz&#104;3473's GitHub stats](https://github-readme-stats.vercel.app/api?username=lchz%683%3473&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**lchzh3473/lchzh3473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lchz&#104;3473/lchz&#104;3473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
